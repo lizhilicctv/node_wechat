@@ -1,0 +1,26 @@
+{
+  "name": "uninode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhilicctv/uninode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhilicctv/uninode/issues"
+  },
+  "homepage": "https://github.com/lizhilicctv/uninode#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0",
+    "md5-node": "^1.0.1",
+    "mysql": "^2.17.1",
+    "redis": "^2.8.0"
+  }
+}
